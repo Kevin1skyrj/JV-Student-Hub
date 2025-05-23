@@ -68,7 +68,7 @@ const Wrapper: React.FC<WrapperProps> = ({ children }) => {
   };
 
   const footerMap: Record<string, React.ReactNode> = {
-    "/": <FooterOne />,
+    // "/": <FooterOne />,
     "/online-course": <FooterTwo />,
     "/university": <FooterThree />,
     "/modern-schooling": <FooterFour />,

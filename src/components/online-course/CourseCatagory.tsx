@@ -8,7 +8,7 @@ const CourseCatagory = () => {
     return (
         <>
             {/* -- category area start -- */}
-            <section className="bd-category-area section-space">
+            <section className="bd-category-area category-section section-space">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-xl-6">
@@ -39,6 +39,14 @@ const CourseCatagory = () => {
                 </div>
             </section>
             {/* -- category area end -- */}
+            <style>
+                {`
+                    .category-section{
+                        background: linear-gradient(135deg, #f8fffe 0%, #e8f7f2 100%);
+                        margin-top: 100px;
+                    }
+                `}
+            </style>
         </>
     );
 };

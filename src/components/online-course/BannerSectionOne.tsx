@@ -43,14 +43,14 @@ const BannerSectionOne = () => {
                         <div className="row gy-30 align-items-center justify-content-end">
                             <div className="col-xxl-5 col-xl-6 col-lg-12">
                                 <div className="bd-banner-one-content">
-                                    <span className="bd-banner-subtitle">Welcome to iStudy</span>
-                                    <h1 className="bd-banner-title small mb-20">Discover <span className="bd-title-underline text-secondary">
-                                        2700+
+                                    <span className="bd-banner-subtitle">Welcome to JV Students hub</span>
+                                    <h1 className="bd-banner-title small mb-20"> <span className="bd-title-underline text-secondary">
+                                        Empowering
                                         <svg width="138" height="8" viewBox="0 0 138 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M1 7C28.2975 2.83975 94.8839 -1.83253 137 3.15976" stroke="#FFAF00"
                                                 strokeWidth="2" />
                                         </svg>
-                                    </span> online courses available in the World</h1>
+                                    </span> students, Enabling dreams</h1>
                                     <p className="bd-banner-description">They are not liable for any offense caused by those who fail to carry
                                         out their duties, unless it is due to negligence.</p>
                                     <div className="bd-banner-btn d-flex-items flex-wrap gap-30">

@@ -1,3 +1,4 @@
+'use client';
 import React from 'react';
 import counterShape1 from "../../../../public/assets/images/shape/counter-shape-1.webp";
 import counterShape2 from "../../../../public/assets/images/shape/counter-shape-2.webp";
@@ -48,6 +49,11 @@ const CourseCounterArea = () => {
                 </div>
             </div>
             {/* -- counter area end -- */}
+            <style jsx>{`
+                .bd-counter-area{
+                    margin: 10rem 0 1rem 0;
+                }
+            `}</style>
         </>
     );
 };

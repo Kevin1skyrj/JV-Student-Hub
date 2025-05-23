@@ -10,21 +10,21 @@ const testimonialData: ITestimonial[] = [
     {
         id: 1,
         rating: 5,
-        content: "The courses on iStudy have transformed my career. The practical projects and expert instructors made learning seamless and enjoyable. Highly recommend it!",
+        content: "The courses on JV Students hub have transformed my career. The practical projects and expert instructors made learning seamless and enjoyable. Highly recommend it!",
         name: "Sarah Johnson",
         avatar: avatar1,
     },
     {
         id: 2,
         rating: 5,
-        content: "iStudy is a game-changer! The flexible schedules and top-notch content allowed me to upskill while managing my busy routine. Thank you, iStudy!",
+        content: "JV Students hub is a game-changer! The flexible schedules and top-notch content allowed me to upskill while managing my busy routine. Thank you, JV Students hub!",
         name: "James Parker",
         avatar: avatar2,
     },
     {
         id: 3,
         rating: 5,
-        content: "Joining iStudy was the best decision I made this year. The course variety and personalized learning paths helped me achieve my professional goals with ease.",
+        content: "Joining JV Students hub was the best decision I made this year. The course variety and personalized learning paths helped me achieve my professional goals with ease.",
         name: "Emily Davis",
         avatar: avatar3,
     },
@@ -32,7 +32,7 @@ const testimonialData: ITestimonial[] = [
     {
         id: 4,
         rating: 5,
-        content: "Modern Schooling at iStudy has transformed my child's learning experience. The interactive classes and expert instructors make education truly engaging.",
+        content: "Modern Schooling at JV Students hub has transformed my child's learning experience. The interactive classes and expert instructors make education truly engaging.",
         name: "Sophia Carter",
         avatar: avatar1,
         designation: "Parent"
@@ -40,7 +40,7 @@ const testimonialData: ITestimonial[] = [
     {
         id: 5,
         rating: 5,
-        content: "iStudy's modern schooling approach ensures that students are prepared for the future. I love the balance between academics and extracurricular activities.",
+        content: "JV Students hub's modern schooling approach ensures that students are prepared for the future. I love the balance between academics and extracurricular activities.",
         name: "James Taylor",
         avatar: avatar2,
         designation: "Teacher"
@@ -57,7 +57,7 @@ const testimonialData: ITestimonial[] = [
     {
         id: 7,
         rating: 5,
-        content: "iStudy University has truly shaped my academic journey. The faculty's dedication to student success and the interactive learning environment are unparalleled. It’s been an amazing platform to build my skills and confidence for the future.",
+        content: "JV Students hub University has truly shaped my academic journey. The faculty's dedication to student success and the interactive learning environment are unparalleled. It’s been an amazing platform to build my skills and confidence for the future.",
         name: "Sophia Ali",
         avatar: avatar1,
         designation: "Computer Science Graduate"
@@ -65,7 +65,7 @@ const testimonialData: ITestimonial[] = [
     {
         id: 8,
         rating: 5,
-        content: "My time at iStudy University has been life-changing. The courses are well-structured, and the resources provided are top-notch. I’ve gained both practical knowledge and lifelong friendships here.",
+        content: "My time at JV Students hub University has been life-changing. The courses are well-structured, and the resources provided are top-notch. I’ve gained both practical knowledge and lifelong friendships here.",
         name: "David Chowdhury",
         avatar: avatar2,
         designation: "Business Administration Student"
@@ -73,7 +73,7 @@ const testimonialData: ITestimonial[] = [
     {
         id: 9,
         rating: 5,
-        content: "Studying at iStudy University has been an incredible journey. The personalized attention from professors and access to state-of-the-art facilities have allowed me to excel in my studies and prepare for a successful career.",
+        content: "Studying at JV Students hub University has been an incredible journey. The personalized attention from professors and access to state-of-the-art facilities have allowed me to excel in my studies and prepare for a successful career.",
         name: "Ayesha Khan",
         avatar: avatar3,
         designation: "Mechanical Engineering Graduate"
@@ -87,7 +87,7 @@ const testimonialData: ITestimonial[] = [
         rating: 5,
         quoteImage: testimonialQuote,
         highlight: "Great Course !",
-        content: "The Quran Learning Program at iStudy has been a transformative experience for me. The structured lessons and dedicated instructors have helped me understand the Quran.",
+        content: "The Quran Learning Program at JV Students hub has been a transformative experience for me. The structured lessons and dedicated instructors have helped me understand the Quran.",
     },
     {
         id: 11,
@@ -118,7 +118,7 @@ const testimonialData: ITestimonial[] = [
         rating: 5,
         quoteImage: testimonialQuote2,
         highlight: "Great Course !",
-        content: "“Using the iStudy Language Academy was a game-changer for my language school. The layout is clean, modern, and intuitive. It was incredibly easy to adapt the template to my needs, and the responsiveness across devices is fantastic. Highly recommended for anyone building a language learning platform!”",
+        content: "“Using the JV Students hub Language Academy was a game-changer for my language school. The layout is clean, modern, and intuitive. It was incredibly easy to adapt the template to my needs, and the responsiveness across devices is fantastic. Highly recommended for anyone building a language learning platform!”",
     },
     {
         id: 14,
@@ -127,7 +127,7 @@ const testimonialData: ITestimonial[] = [
         avatar: avatar3,
         rating: 5,
         quoteImage: testimonialQuote2,
-        content: "“Using the iStudy Language Academy was a game-changer for my language school. The layout is clean, modern, and intuitive. It was incredibly easy to adapt the template to my needs, and the responsiveness across devices is fantastic. Highly recommended for anyone building a language learning platform!”",
+        content: "“Using the JV Students hub Language Academy was a game-changer for my language school. The layout is clean, modern, and intuitive. It was incredibly easy to adapt the template to my needs, and the responsiveness across devices is fantastic. Highly recommended for anyone building a language learning platform!”",
     },
     {
         id: 15,
@@ -136,7 +136,7 @@ const testimonialData: ITestimonial[] = [
         avatar: avatar4,
         rating: 5,
         quoteImage: testimonialQuote2,
-        content: "“Using the iStudy Language Academy was a game-changer for my language school. The layout is clean, modern, and intuitive. It was incredibly easy to adapt the template to my needs, and the responsiveness across devices is fantastic. Highly recommended for anyone building a language learning platform!”",
+        content: "“Using the JV Students hub Language Academy was a game-changer for my language school. The layout is clean, modern, and intuitive. It was incredibly easy to adapt the template to my needs, and the responsiveness across devices is fantastic. Highly recommended for anyone building a language learning platform!”",
     },
 ];
 

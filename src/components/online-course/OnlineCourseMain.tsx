@@ -11,22 +11,30 @@ import CourseCareerArea from './CourseCareerArea';
 import CourseAboutArea from '../common/course-section/CourseAboutArea';
 import CourseCounterArea from '../common/course-section/CourseCounterArea';
 import OnlineCourseInstructor from './OnlineCourseInstructor';
+import NewBatchesSection from '../Custom-Components/NewBatchSection';
+import AboutJVSection from '../Custom-Components/AboutJV';
+import AboutOwner from '../Custom-Components/AboutOwner';
+import WhatWeOffer from '../Custom-Components/WhatWeOffer';
 
 const OnlineCourseMain = () => {
     return (
         <>
             <BannerSectionOne />
-            <CourseFeatureArea />
+            <NewBatchesSection />
+            {/* <CourseFeatureArea /> */}
             <CourseCatagory />
-            <CourseAboutArea />
+            {/* <AboutJVSection /> */}
+            {/* <CourseAboutArea /> */}
             <OnlineCourseArea />
-            <CoursePricingPlanArea />
+            <WhatWeOffer />
+            <AboutOwner />
+            {/* <CoursePricingPlanArea /> */}
             <TestimonialSliderOne />
-            <OnlineCourseInstructor />
+            {/* <OnlineCourseInstructor /> */}
             <CourseCounterArea />
-            <CoursePartnerArea />
-            <CourseBlogArea />
-            <CourseCareerArea />
+            {/* <CoursePartnerArea /> */}
+            {/* <CourseBlogArea /> */}
+            {/* <CourseCareerArea /> */}
         </>
     );
 };
